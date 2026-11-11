@@ -1,0 +1,18 @@
+{
+  "id": "relocation",
+  "icon": "home",
+  "name": {
+    "en": "Relocation support",
+    "tr": "Taşınma desteği",
+    "ar": "دعم الانتقال",
+    "es": "Apoyo para la mudanza",
+    "fr": "Aide à l’installation"
+  },
+  "description": {
+    "en": "Settling-in help for newcomers.",
+    "tr": "Yeni gelenler için uyum desteği.",
+    "ar": "مساعدة القادمين الجدد على الاستقرار.",
+    "es": "Ayuda de instalación para recién llegados.",
+    "fr": "Aide à l’installation pour les nouveaux arrivants."
+  }
+}

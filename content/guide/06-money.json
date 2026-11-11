@@ -1,0 +1,23 @@
+{
+  "id": "money",
+  "title": {
+    "en": "Money and prices",
+    "tr": "Para ve fiyatlar",
+    "ar": "المال والأسعار",
+    "es": "Dinero y precios",
+    "fr": "Argent et prix"
+  },
+  "body": [
+    {
+      "en": "The currency is the Turkish lira (TRY). Exchange rates and prices change frequently. The NORVIGATE currency converter shows indicative daily reference rates from a third-party service; they are not live market prices. Prices shown on this site are sample data.",
+      "tr": "Para birimi Türk lirasıdır (TRY). Döviz kurları ve fiyatlar sık değişir. NORVIGATE döviz çevirici, üçüncü taraf bir hizmetin günlük referans kurlarını gösterir; bunlar canlı piyasa fiyatı değildir. Bu sitede gösterilen fiyatlar örnek veridir.",
+      "ar": "العملة هي الليرة التركية (TRY). تتغير أسعار الصرف والأسعار كثيرًا. يعرض محوّل العملات في نورفيغيت أسعارًا مرجعية يومية من خدمة طرف ثالث، وهي ليست أسعار سوق مباشرة. الأسعار المعروضة في هذا الموقع بيانات تجريبية.",
+      "es": "La moneda es la lira turca (TRY). Los tipos de cambio y los precios cambian con frecuencia. El conversor de divisas de NORVIGATE muestra tipos de referencia diarios de un servicio de terceros; no son precios de mercado en vivo. Los precios que se muestran en este sitio son datos de muestra.",
+      "fr": "La monnaie est la livre turque (TRY). Les taux de change et les prix changent fréquemment. Le convertisseur de devises NORVIGATE affiche des taux de référence quotidiens indicatifs d’un service tiers ; ce ne sont pas des cours de marché en direct. Les prix affichés sur ce site sont des données d’exemple."
+    }
+  ],
+  "timeSensitive": true,
+  "reviewedAt": "2026-10-16",
+  "links": [],
+  "dataStatus": "editorial"
+}

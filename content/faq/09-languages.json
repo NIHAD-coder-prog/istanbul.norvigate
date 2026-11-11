@@ -1,0 +1,17 @@
+{
+  "id": "languages",
+  "q": {
+    "en": "Which languages does the site support?",
+    "tr": "Site hangi dilleri destekliyor?",
+    "ar": "ما اللغات التي يدعمها الموقع؟",
+    "es": "¿Qué idiomas admite el sitio?",
+    "fr": "Quelles langues le site prend-il en charge ?"
+  },
+  "a": {
+    "en": "English, Turkish, Arabic, Spanish and French, with a full right-to-left layout for Arabic. The platform is built so more languages can be added; text that is not yet translated is shown in English. Use the language menu in the header.",
+    "tr": "İngilizce, Türkçe, Arapça, İspanyolca ve Fransızca; Arapça için tam sağdan sola düzen. Platform, daha fazla dil eklenebilecek şekilde tasarlanmıştır; henüz çevrilmemiş metinler İngilizce gösterilir. Üst bölümdeki dil menüsünü kullanın.",
+    "ar": "الإنجليزية والتركية والعربية والإسبانية والفرنسية، مع تخطيط كامل من اليمين إلى اليسار للعربية. بُنيت المنصة بحيث يمكن إضافة لغات أخرى؛ والنص غير المترجم بعد يظهر بالإنجليزية. استخدم قائمة اللغة في أعلى الصفحة.",
+    "es": "Inglés, turco, árabe, español y francés, con un diseño completo de derecha a izquierda para el árabe. La plataforma está construida para poder añadir más idiomas; el texto aún sin traducir se muestra en inglés. Usa el menú de idioma de la cabecera.",
+    "fr": "Anglais, turc, arabe, espagnol et français, avec une mise en page de droite à gauche complète pour l’arabe. La plateforme est conçue pour pouvoir ajouter d’autres langues ; le texte non encore traduit s’affiche en anglais. Utilisez le sélecteur de langue dans l’en-tête."
+  }
+}

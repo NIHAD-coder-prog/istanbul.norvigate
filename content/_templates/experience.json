@@ -1,0 +1,42 @@
+{
+  "id": "e-CHANGE-ME",
+  "slug": "change-me",
+  "category": "history",
+  "title": {
+    "en": "Place or activity",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "summary": {
+    "en": "One short sentence.",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "description": {
+    "en": "A few sentences.",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "area": {
+    "en": "District",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "duration": {
+    "en": "About 1 hour",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "lastUpdated": "2026-11-04",
+  "dataStatus": "verified"
+}

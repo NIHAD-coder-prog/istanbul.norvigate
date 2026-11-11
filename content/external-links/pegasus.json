@@ -1,0 +1,14 @@
+{
+  "id": "pegasus",
+  "kind": "flights",
+  "name": "Pegasus Airlines",
+  "description": {
+    "en": "The airline's own site for searching and booking its flights.",
+    "tr": "Havayolunun kendi uçuşlarını aramak ve rezerve etmek için kendi sitesi.",
+    "ar": "الموقع الرسمي لشركة الطيران للبحث عن رحلاتها وحجزها.",
+    "es": "El sitio propio de la aerolínea para buscar y reservar sus vuelos.",
+    "fr": "Le site de la compagnie pour rechercher et réserver ses vols."
+  },
+  "url": "https://www.flypgs.com",
+  "checkedAt": "2026-10-16"
+}

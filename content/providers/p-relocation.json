@@ -1,0 +1,48 @@
+{
+  "id": "p-relocation",
+  "slug": "sample-relocation-helper",
+  "categoryId": "relocation",
+  "name": {
+    "en": "Sample Relocation Helper",
+    "tr": "Örnek Taşınma Yardımcısı",
+    "ar": "مساعد انتقال تجريبي",
+    "es": "Ayudante de mudanzas de muestra",
+    "fr": "Aide à l’installation d’exemple"
+  },
+  "summary": {
+    "en": "Demonstration profile of a relocation-support listing.",
+    "tr": "Taşınma desteği ilanının gösterim profili.",
+    "ar": "ملف تجريبي لإدراج دعم الانتقال.",
+    "es": "Perfil de demostración de un anuncio de apoyo para mudanzas.",
+    "fr": "Profil de démonstration d’une fiche d’aide à l’installation."
+  },
+  "description": {
+    "en": "A sample listing for settling-in support. It offers no real services and gives no advice on residency or legal matters.",
+    "tr": "Uyum desteği için örnek ilan. Gerçek hizmet sunmaz; ikamet veya hukuki konularda tavsiye vermez.",
+    "ar": "إدراج تجريبي لدعم الاستقرار. لا يقدّم خدمات حقيقية ولا يعطي نصائح بشأن الإقامة أو الأمور القانونية.",
+    "es": "Un anuncio de muestra de apoyo para la instalación. No ofrece servicios reales ni da consejos sobre residencia o asuntos legales.",
+    "fr": "Une fiche d’exemple pour l’aide à l’installation. Elle ne propose aucun service réel et ne donne aucun conseil sur la résidence ni sur les questions juridiques."
+  },
+  "area": {
+    "en": "Kadıköy",
+    "tr": "Kadıköy",
+    "ar": "قاضي كوي",
+    "es": "Kadıköy",
+    "fr": "Kadıköy"
+  },
+  "serviceArea": {
+    "en": "Istanbul",
+    "tr": "İstanbul",
+    "ar": "إسطنبول",
+    "es": "Estambul",
+    "fr": "Istanbul"
+  },
+  "languages": [
+    "en",
+    "tr",
+    "ar",
+    "es"
+  ],
+  "lastUpdated": "2026-10-16",
+  "dataStatus": "sample"
+}

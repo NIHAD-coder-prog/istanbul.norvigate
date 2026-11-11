@@ -1,0 +1,17 @@
+{
+  "id": "sample",
+  "q": {
+    "en": "Why does the site say “sample data”?",
+    "tr": "Site neden “örnek veri” diyor?",
+    "ar": "لماذا يذكر الموقع «بيانات تجريبية»؟",
+    "es": "¿Por qué el sitio dice «datos de muestra»?",
+    "fr": "Pourquoi le site indique-t-il « données d’exemple » ?"
+  },
+  "a": {
+    "en": "This is a V0.1 preview. Providers, products, prices and services shown here were created to demonstrate the platform and are not real. Real, verified listings will replace them, and we will say so clearly.",
+    "tr": "Bu bir V0.1 önizlemesidir. Burada gösterilen sağlayıcılar, ürünler, fiyatlar ve hizmetler platformu göstermek için oluşturulmuştur ve gerçek değildir. Gerçek ve doğrulanmış ilanlar bunların yerini alacak ve bunu açıkça belirteceğiz.",
+    "ar": "هذا إصدار معاينة V0.1. المزوّدون والمنتجات والأسعار والخدمات المعروضة هنا أُنشئت لعرض المنصة وليست حقيقية. ستحل محلها إدراجات حقيقية موثّقة وسنوضح ذلك بجلاء.",
+    "es": "Esta es una versión preliminar V0.1. Los proveedores, productos, precios y servicios que se muestran aquí se crearon para demostrar la plataforma y no son reales. Serán sustituidos por fichas reales y verificadas, y lo indicaremos con claridad.",
+    "fr": "Il s’agit d’un aperçu V0.1. Les prestataires, produits, prix et services affichés ici ont été créés pour démontrer la plateforme et ne sont pas réels. Des fiches réelles et vérifiées les remplaceront, et nous le dirons clairement."
+  }
+}

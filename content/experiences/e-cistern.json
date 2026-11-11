@@ -1,0 +1,42 @@
+{
+  "id": "e-cistern",
+  "slug": "basilica-cistern",
+  "category": "history",
+  "title": {
+    "en": "Basilica Cistern",
+    "tr": "Yerebatan Sarnıcı",
+    "ar": "صهريج البازيليك",
+    "es": "Cisterna Basílica",
+    "fr": "Citerne Basilique"
+  },
+  "summary": {
+    "en": "A Byzantine underground water cistern supported by rows of columns.",
+    "tr": "Sıra sıra sütunlarla taşınan Bizans dönemi yeraltı su sarnıcı.",
+    "ar": "صهريج مياه بيزنطي تحت الأرض تحمله صفوف من الأعمدة.",
+    "es": "Cisterna bizantina subterránea sostenida por hileras de columnas.",
+    "fr": "Une citerne byzantine souterraine soutenue par des rangées de colonnes."
+  },
+  "description": {
+    "en": "Built in the 6th century to store water for the city's palaces, the cistern is a cool, dimly lit hall of columns beneath the old city. Check the official source for hours and tickets.",
+    "tr": "6. yüzyılda şehrin saraylarına su depolamak için yapılan sarnıç, eski şehrin altında serin ve loş bir sütun salonudur. Saatler ve biletler için resmî kaynağa bakın.",
+    "ar": "بُني في القرن السادس لتخزين المياه لقصور المدينة، وهو قاعة أعمدة باردة خافتة الإضاءة تحت المدينة القديمة. راجع المصدر الرسمي للمواعيد والتذاكر.",
+    "es": "Construida en el siglo VI para almacenar agua para los palacios de la ciudad, es una sala de columnas fresca y de luz tenue bajo el casco antiguo. Consulta la fuente oficial para horarios y entradas.",
+    "fr": "Construite au VIe siècle pour stocker l’eau des palais de la ville, la citerne est une salle fraîche et faiblement éclairée, remplie de colonnes, sous la vieille ville. Consultez la source officielle pour les horaires et les billets."
+  },
+  "area": {
+    "en": "Fatih (Sultanahmet)",
+    "tr": "Fatih (Sultanahmet)",
+    "ar": "الفاتح (السلطان أحمد)",
+    "es": "Fatih (Sultanahmet)",
+    "fr": "Fatih (Sultanahmet)"
+  },
+  "duration": {
+    "en": "Plan about 1 hour",
+    "tr": "Yaklaşık 1 saat ayırın",
+    "ar": "خصّص نحو ساعة",
+    "es": "Calcula una hora",
+    "fr": "Prévoyez environ 1 heure"
+  },
+  "dataStatus": "editorial",
+  "lastUpdated": "2026-10-16"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "connectivity",
+  "title": {
+    "en": "Connectivity",
+    "tr": "Bağlantı",
+    "ar": "الاتصال بالإنترنت",
+    "es": "Conectividad",
+    "fr": "Connectivité"
+  },
+  "body": [
+    {
+      "en": "Mobile data, SIM cards and the rules for using a foreign phone in Türkiye are set by the authorities and operators and can change. Check with a licensed operator and official sources before you travel or buy a SIM.",
+      "tr": "Mobil veri, SIM kartları ve yabancı telefonun Türkiye'de kullanım kuralları yetkililer ve operatörler tarafından belirlenir ve değişebilir. Seyahat etmeden veya SIM satın almadan önce lisanslı bir operatöre ve resmî kaynaklara danışın.",
+      "ar": "تحدد الجهات الرسمية والمشغّلون خطط البيانات وبطاقات SIM وقواعد استخدام هاتف أجنبي في تركيا، وقد تتغير. استشر مشغّلًا مرخّصًا ومصادر رسمية قبل السفر أو شراء شريحة.",
+      "es": "Los datos móviles, las tarjetas SIM y las normas para usar un teléfono extranjero en Türkiye las fijan las autoridades y los operadores y pueden cambiar. Consulta con un operador autorizado y con fuentes oficiales antes de viajar o comprar una SIM.",
+      "fr": "Les données mobiles, les cartes SIM et les règles d’utilisation d’un téléphone étranger en Türkiye sont fixées par les autorités et les opérateurs et peuvent changer. Renseignez-vous auprès d’un opérateur agréé et de sources officielles avant de voyager ou d’acheter une SIM."
+    }
+  ],
+  "timeSensitive": true,
+  "reviewedAt": "2026-10-16",
+  "links": [],
+  "dataStatus": "editorial"
+}

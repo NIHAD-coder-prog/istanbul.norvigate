@@ -1,0 +1,113 @@
+{
+  "stock": {
+    "status": "inquire"
+  },
+  "taxes": {
+    "disclosure": "notCalculated"
+  },
+  "fulfilment": {
+    "status": "notConfigured"
+  },
+  "dataStatus": "sample",
+  "lastUpdated": "2026-10-16",
+  "id": "pr-gift-box",
+  "slug": "sample-istanbul-tasting-box",
+  "categoryId": "gifts",
+  "motif": "gift",
+  "name": {
+    "en": "Sample Istanbul Tasting Gift Box",
+    "tr": "Örnek İstanbul Tadım Hediye Kutusu",
+    "ar": "صندوق هدايا تذوّق إسطنبولي (تجريبي)",
+    "es": "Caja de regalo de degustación de Estambul de muestra",
+    "fr": "Coffret cadeau dégustation d’Istanbul d’exemple"
+  },
+  "summary": {
+    "en": "A mixed gift box of sample sweets and tea. Sample product.",
+    "tr": "Örnek tatlılar ve çaydan oluşan karışık hediye kutusu. Örnek ürün.",
+    "ar": "صندوق هدايا متنوع من حلويات وشاي تجريبيين. منتج تجريبي.",
+    "es": "Caja de regalo variada con dulces y té de muestra. Producto de muestra.",
+    "fr": "Un coffret cadeau mixte de douceurs et de thé d’exemple. Produit d’exemple."
+  },
+  "description": {
+    "en": "A demonstration listing for a gift set. Contents are invented; a real gift box would list each item and its allergens.",
+    "tr": "Bir hediye seti için gösterim ilanı. İçerik uydurulmuştur; gerçek bir hediye kutusunda her ürün ve alerjenleri sıralanırdı.",
+    "ar": "إدراج تجريبي لمجموعة هدايا. المحتويات مختلقة؛ وفي صندوق حقيقي يُدرج كل صنف ومسببات الحساسية فيه.",
+    "es": "Ficha de demostración de un set de regalo. El contenido es inventado; una caja real enumeraría cada artículo y sus alérgenos.",
+    "fr": "Une fiche de démonstration pour un coffret cadeau. Le contenu est inventé ; un vrai coffret indiquerait chaque article et ses allergènes."
+  },
+  "variants": [
+    {
+      "id": "small",
+      "label": {
+        "en": "Small box",
+        "tr": "Küçük kutu",
+        "ar": "صندوق صغير",
+        "es": "Caja pequeña",
+        "fr": "Petit coffret"
+      },
+      "weightGrams": 600,
+      "priceMinor": 65000,
+      "currency": "TRY"
+    },
+    {
+      "id": "large",
+      "label": {
+        "en": "Large box",
+        "tr": "Büyük kutu",
+        "ar": "صندوق كبير",
+        "es": "Caja grande",
+        "fr": "Grand coffret"
+      },
+      "weightGrams": 1200,
+      "priceMinor": 120000,
+      "currency": "TRY"
+    }
+  ],
+  "ingredients": {
+    "en": "See each item (sample)",
+    "tr": "Her ürüne bakın (örnek)",
+    "ar": "راجع كل صنف (مثال)",
+    "es": "Consulta cada artículo (muestra)",
+    "fr": "Voir chaque article (exemple)"
+  },
+  "allergens": {
+    "status": "unverified",
+    "contains": [
+      "gluten",
+      "treeNuts",
+      "sesame"
+    ]
+  },
+  "shelfLifeDays": 90,
+  "storage": {
+    "en": "Cool, dry place (sample)",
+    "tr": "Serin ve kuru yerde (örnek)",
+    "ar": "في مكان بارد وجاف (مثال)",
+    "es": "Lugar fresco y seco (muestra)",
+    "fr": "Endroit frais et sec (exemple)"
+  },
+  "shipping": {
+    "packageWeightGrams": 900,
+    "methods": [],
+    "destinations": [
+      {
+        "country": "TR",
+        "status": "notEnabled",
+        "reviewItems": [
+          "fulfilment",
+          "shippingFeasibility"
+        ]
+      },
+      {
+        "country": "*",
+        "status": "notEnabled",
+        "reviewItems": [
+          "importRestrictions",
+          "foodLabelling",
+          "shippingFeasibility",
+          "fulfilment"
+        ]
+      }
+    ]
+  }
+}

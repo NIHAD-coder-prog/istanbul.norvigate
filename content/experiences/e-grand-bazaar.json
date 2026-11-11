@@ -1,0 +1,42 @@
+{
+  "id": "e-grand-bazaar",
+  "slug": "grand-bazaar",
+  "category": "markets",
+  "title": {
+    "en": "Grand Bazaar",
+    "tr": "Kapalıçarşı",
+    "ar": "السوق المسقوف الكبير",
+    "es": "Gran Bazar",
+    "fr": "Grand Bazar"
+  },
+  "summary": {
+    "en": "One of the oldest and largest covered markets in the world.",
+    "tr": "Dünyanın en eski ve en büyük kapalı çarşılarından biri.",
+    "ar": "من أقدم وأكبر الأسواق المسقوفة في العالم.",
+    "es": "Uno de los mercados cubiertos más antiguos y grandes del mundo.",
+    "fr": "L’un des plus anciens et des plus grands marchés couverts du monde."
+  },
+  "description": {
+    "en": "A maze of covered streets and courtyards with hundreds of shops selling textiles, ceramics, lamps, jewellery and gifts. Prices are negotiable in many shops; opening days and hours vary, so confirm before visiting.",
+    "tr": "Tekstil, seramik, lamba, takı ve hediyelik eşya satan yüzlerce dükkânın bulunduğu, kapalı sokaklar ve avlulardan oluşan bir labirent. Birçok dükkânda fiyat pazarlığı yapılır; açık günler ve saatler değişir, gitmeden önce doğrulayın.",
+    "ar": "متاهة من الأزقة والساحات المسقوفة تضم مئات المحلات التي تبيع المنسوجات والخزف والمصابيح والمجوهرات والهدايا. يمكن التفاوض على الأسعار في كثير من المحلات، وتختلف أيام العمل وساعاته، فتأكد قبل الزيارة.",
+    "es": "Un laberinto de calles cubiertas y patios con cientos de tiendas que venden tejidos, cerámica, lámparas, joyas y regalos. En muchas tiendas se puede regatear; los días y horarios varían, así que confírmalos antes de ir.",
+    "fr": "Un dédale de rues et de cours couvertes avec des centaines de boutiques de textiles, céramiques, lampes, bijoux et cadeaux. Les prix se négocient dans beaucoup de boutiques ; les jours et horaires d’ouverture varient, confirmez-les avant de venir."
+  },
+  "area": {
+    "en": "Fatih (Beyazıt)",
+    "tr": "Fatih (Beyazıt)",
+    "ar": "الفاتح (بيازيد)",
+    "es": "Fatih (Beyazıt)",
+    "fr": "Fatih (Beyazıt)"
+  },
+  "duration": {
+    "en": "Plan about 1–3 hours",
+    "tr": "Yaklaşık 1–3 saat ayırın",
+    "ar": "خصّص نحو ساعة إلى ثلاث ساعات",
+    "es": "Calcula entre 1 y 3 horas",
+    "fr": "Prévoyez environ 1 à 3 heures"
+  },
+  "dataStatus": "editorial",
+  "lastUpdated": "2026-10-16"
+}

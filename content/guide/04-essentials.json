@@ -1,0 +1,42 @@
+{
+  "id": "essentials",
+  "title": {
+    "en": "Essential services",
+    "tr": "Temel hizmetler",
+    "ar": "الخدمات الأساسية",
+    "es": "Servicios esenciales",
+    "fr": "Services essentiels"
+  },
+  "body": [
+    {
+      "en": "The single emergency number in Türkiye is 112. Confirm this and other local numbers with an official source; numbers and services can change.",
+      "tr": "Türkiye'de tek acil çağrı numarası 112'dir. Bu ve diğer yerel numaraları resmî bir kaynaktan doğrulayın; numaralar ve hizmetler değişebilir.",
+      "ar": "رقم الطوارئ الموحّد في تركيا هو 112. تأكد منه ومن الأرقام المحلية الأخرى عبر مصدر رسمي؛ فقد تتغير الأرقام والخدمات.",
+      "es": "El número único de emergencias en Türkiye es el 112. Confírmalo, junto con otros números locales, en una fuente oficial; los números y servicios pueden cambiar.",
+      "fr": "Le numéro d’urgence unique en Türkiye est le 112. Confirmez-le, ainsi que les autres numéros locaux, auprès d’une source officielle ; les numéros et les services peuvent changer."
+    },
+    {
+      "en": "For visitor information, the official national tourism portal is a good starting point.",
+      "tr": "Ziyaretçi bilgisi için resmî ulusal turizm portalı iyi bir başlangıç noktasıdır.",
+      "ar": "للحصول على معلومات الزوار، تُعد بوابة السياحة الوطنية الرسمية نقطة انطلاق جيدة.",
+      "es": "Para información al visitante, el portal turístico nacional oficial es un buen punto de partida.",
+      "fr": "Pour les informations aux visiteurs, le portail touristique national officiel est un bon point de départ."
+    }
+  ],
+  "timeSensitive": true,
+  "reviewedAt": "2026-10-16",
+  "links": [
+    {
+      "label": {
+        "en": "GoTürkiye (official tourism portal)",
+        "tr": "GoTürkiye (resmî turizm portalı)",
+        "ar": "GoTürkiye (بوابة السياحة الرسمية)",
+        "es": "GoTürkiye (portal turístico oficial)",
+        "fr": "GoTürkiye (portail touristique officiel)"
+      },
+      "url": "https://www.goturkiye.com",
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "dataStatus": "editorial"
+}

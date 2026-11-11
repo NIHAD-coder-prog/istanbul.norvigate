@@ -1,0 +1,48 @@
+{
+  "id": "p-transfer",
+  "slug": "sample-airport-transfer-company",
+  "categoryId": "transport",
+  "name": {
+    "en": "Sample Airport Transfer Company",
+    "tr": "Örnek Havalimanı Transfer Şirketi",
+    "ar": "شركة توصيل مطارات تجريبية",
+    "es": "Empresa de traslados al aeropuerto de muestra",
+    "fr": "Société de transferts aéroport d’exemple"
+  },
+  "summary": {
+    "en": "Demonstration profile of a transfer provider.",
+    "tr": "Transfer sağlayıcısının gösterim profili.",
+    "ar": "ملف تجريبي لمزوّد خدمة توصيل.",
+    "es": "Perfil de demostración de un proveedor de traslados.",
+    "fr": "Profil de démonstration d’un prestataire de transferts."
+  },
+  "description": {
+    "en": "A sample transport listing showing a service area covering the city. It is not a real operator and shows no vehicles, routes or prices.",
+    "tr": "Şehri kapsayan bir hizmet alanı gösteren örnek ulaşım ilanı. Gerçek bir işletmeci değildir; araç, güzergâh veya fiyat göstermez.",
+    "ar": "إدراج نقل تجريبي بمنطقة خدمة تغطي المدينة. وهو ليس مشغّلًا حقيقيًا ولا يعرض مركبات أو مسارات أو أسعارًا.",
+    "es": "Un anuncio de transporte de muestra con una zona de servicio que cubre la ciudad. No es un operador real y no muestra vehículos, rutas ni precios.",
+    "fr": "Une fiche de transport d’exemple avec une zone de service couvrant la ville. Ce n’est pas un vrai opérateur et elle n’affiche ni véhicules, ni itinéraires, ni tarifs."
+  },
+  "area": {
+    "en": "City-wide",
+    "tr": "Şehir geneli",
+    "ar": "على مستوى المدينة",
+    "es": "Toda la ciudad",
+    "fr": "Toute la ville"
+  },
+  "serviceArea": {
+    "en": "Istanbul, including both airports",
+    "tr": "İstanbul, iki havalimanı dahil",
+    "ar": "إسطنبول، بما في ذلك المطارين",
+    "es": "Estambul, incluidos ambos aeropuertos",
+    "fr": "Istanbul, y compris les deux aéroports"
+  },
+  "languages": [
+    "en",
+    "tr",
+    "ar",
+    "es"
+  ],
+  "lastUpdated": "2026-10-16",
+  "dataStatus": "sample"
+}

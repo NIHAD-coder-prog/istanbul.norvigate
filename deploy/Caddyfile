@@ -1,0 +1,10 @@
+{$SITE_DOMAIN} {
+	encode zstd gzip
+	# Next.js sets the security headers (CSP with nonce, HSTS, frame-ancestors) itself.
+	reverse_proxy app:3000
+	header -Server
+	log {
+		output stdout
+		format console
+	}
+}

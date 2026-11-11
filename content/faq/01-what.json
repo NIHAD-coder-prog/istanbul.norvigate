@@ -1,0 +1,17 @@
+{
+  "id": "what",
+  "q": {
+    "en": "What is NORVIGATE?",
+    "tr": "NORVIGATE nedir?",
+    "ar": "ما هي نورفيغيت؟",
+    "es": "¿Qué es NORVIGATE?",
+    "fr": "Qu’est-ce que NORVIGATE ?"
+  },
+  "a": {
+    "en": "NORVIGATE is a city-gateway platform that helps people discover a city, plan what they need, find local services and connect with providers. Istanbul is the first city platform.",
+    "tr": "NORVIGATE; insanların bir şehri keşfetmesine, ihtiyaçlarını planlamasına, yerel hizmetleri bulmasına ve sağlayıcılarla bağlantı kurmasına yardımcı olan bir şehir geçidi platformudur. İlk şehir platformu İstanbul'dur.",
+    "ar": "نورفيغيت منصة بوابة مدن تساعد الناس على اكتشاف المدينة والتخطيط لاحتياجاتهم وإيجاد الخدمات المحلية والتواصل مع مقدّميها. إسطنبول هي أول منصة مدينة.",
+    "es": "NORVIGATE es una plataforma de puerta de entrada a ciudades que ayuda a descubrir una ciudad, planificar lo que se necesita, encontrar servicios locales y conectar con proveedores. Estambul es la primera plataforma de ciudad.",
+    "fr": "NORVIGATE est une plateforme de portes d’entrée vers les villes qui aide à découvrir une ville, à planifier ce dont on a besoin, à trouver des services locaux et à entrer en contact avec des prestataires. Istanbul est la première plateforme de ville."
+  }
+}

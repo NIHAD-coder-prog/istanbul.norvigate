@@ -1,0 +1,17 @@
+{
+  "id": "privacy",
+  "q": {
+    "en": "What happens to the details I send?",
+    "tr": "Gönderdiğim bilgilere ne olur?",
+    "ar": "ماذا يحدث للبيانات التي أرسلها؟",
+    "es": "¿Qué ocurre con los datos que envío?",
+    "fr": "Que deviennent les informations que j’envoie ?"
+  },
+  "a": {
+    "en": "They are stored by NORVIGATE to follow up on your request. No analytics or advertising cookies are used in V0.1. The Privacy Policy is a draft awaiting legal review.",
+    "tr": "Talebinizi takip etmek için NORVIGATE tarafından saklanır. V0.1'de analiz veya reklam çerezi kullanılmaz. Gizlilik Politikası, hukuki incelemeyi bekleyen bir taslaktır.",
+    "ar": "تُخزَّن لدى نورفيغيت لمتابعة طلبك. لا تُستخدم ملفات تعريف ارتباط للتحليلات أو الإعلانات في V0.1. سياسة الخصوصية مسودة بانتظار المراجعة القانونية.",
+    "es": "NORVIGATE los guarda para dar seguimiento a tu solicitud. En la V0.1 no se usan cookies de analítica ni de publicidad. La Política de privacidad es un borrador pendiente de revisión jurídica.",
+    "fr": "Elles sont conservées par NORVIGATE pour donner suite à votre demande. Aucun cookie d’analyse ou de publicité n’est utilisé en V0.1. La politique de confidentialité est un projet en attente de relecture juridique."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "store",
+  "q": {
+    "en": "How does the store work?",
+    "tr": "Mağaza nasıl çalışır?",
+    "ar": "كيف يعمل المتجر؟",
+    "es": "¿Cómo funciona la tienda?",
+    "fr": "Comment fonctionne la boutique ?"
+  },
+  "a": {
+    "en": "You can browse sample products, fill a cart and send an order request. That records your interest. It does not charge you, reserve stock or confirm an order, and delivery and shipping are not operational.",
+    "tr": "Örnek ürünlere göz atabilir, sepet oluşturabilir ve sipariş talebi gönderebilirsiniz. Bu, ilginizi kaydeder. Sizden ücret alınmaz, stok ayrılmaz, sipariş onaylanmaz; teslimat ve gönderim henüz işlemez.",
+    "ar": "يمكنك تصفح منتجات تجريبية وملء سلة وإرسال طلب شراء. يسجّل ذلك اهتمامك ولا يخصم منك مبلغًا ولا يحجز مخزونًا ولا يؤكد طلبًا، والتوصيل والشحن غير مفعّلين.",
+    "es": "Puedes explorar productos de muestra, llenar un carrito y enviar una solicitud de pedido. Eso registra tu interés. No se te cobra, no se reserva stock ni se confirma un pedido, y la entrega y el envío no están operativos.",
+    "fr": "Vous pouvez parcourir des produits d’exemple, remplir un panier et envoyer une demande de commande. Cela enregistre votre intérêt. Cela ne vous débite pas, ne réserve pas de stock et ne confirme aucune commande ; la livraison et l’expédition ne sont pas opérationnelles."
+  }
+}

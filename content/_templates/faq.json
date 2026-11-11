@@ -1,0 +1,17 @@
+{
+  "id": "change-me",
+  "q": {
+    "en": "The question",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "a": {
+    "en": "The answer.",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  }
+}

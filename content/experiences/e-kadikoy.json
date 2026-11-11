@@ -1,0 +1,42 @@
+{
+  "id": "e-kadikoy",
+  "slug": "kadikoy",
+  "category": "neighbourhoods",
+  "title": {
+    "en": "Kadıköy",
+    "tr": "Kadıköy",
+    "ar": "قاضي كوي",
+    "es": "Kadıköy",
+    "fr": "Kadıköy"
+  },
+  "summary": {
+    "en": "An Asian-side district known for its market streets, cafés and ferry connection.",
+    "tr": "Çarşı sokakları, kafeleri ve vapur bağlantısıyla bilinen Anadolu yakası semti.",
+    "ar": "حيّ في الجانب الآسيوي معروف بأسواقه ومقاهيه وارتباطه بالعبّارات.",
+    "es": "Distrito de la orilla asiática conocido por sus calles de mercado, sus cafés y su conexión en ferry.",
+    "fr": "Un quartier de la rive asiatique connu pour ses rues de marché, ses cafés et sa liaison en bateau."
+  },
+  "description": {
+    "en": "Reached by ferry from the European side, Kadıköy has a lively food market area, cafés and independent shops. A relaxed way to see everyday Istanbul away from the main monuments.",
+    "tr": "Avrupa yakasından vapurla ulaşılan Kadıköy'de hareketli bir yiyecek çarşısı, kafeler ve bağımsız dükkânlar vardır. Ana anıtlardan uzakta gündelik İstanbul'u görmenin rahat bir yoludur.",
+    "ar": "يمكن الوصول إلى قاضي كوي بالعبّارة من الجانب الأوروبي، وفيه منطقة سوق طعام نشطة ومقاهٍ ومحلات مستقلة. طريقة هادئة لرؤية إسطنبول اليومية بعيدًا عن المعالم الرئيسية.",
+    "es": "A la que se llega en ferry desde el lado europeo, Kadıköy tiene una animada zona de mercado de alimentos, cafés y tiendas independientes. Una forma relajada de ver el Estambul cotidiano lejos de los grandes monumentos.",
+    "fr": "Accessible en bateau depuis la rive européenne, Kadıköy offre un quartier de marché animé, des cafés et des boutiques indépendantes. Une façon tranquille de voir l’Istanbul du quotidien, loin des grands monuments."
+  },
+  "area": {
+    "en": "Kadıköy",
+    "tr": "Kadıköy",
+    "ar": "قاضي كوي",
+    "es": "Kadıköy",
+    "fr": "Kadıköy"
+  },
+  "duration": {
+    "en": "Plan about half a day",
+    "tr": "Yaklaşık yarım gün ayırın",
+    "ar": "خصّص نحو نصف يوم",
+    "es": "Calcula media jornada",
+    "fr": "Prévoyez environ une demi-journée"
+  },
+  "dataStatus": "editorial",
+  "lastUpdated": "2026-10-16"
+}

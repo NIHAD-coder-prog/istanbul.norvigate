@@ -1,0 +1,18 @@
+{
+  "id": "education",
+  "icon": "book",
+  "name": {
+    "en": "Education",
+    "tr": "Eğitim",
+    "ar": "التعليم",
+    "es": "Educación",
+    "fr": "Éducation"
+  },
+  "description": {
+    "en": "Language schools, courses and tutoring.",
+    "tr": "Dil okulları, kurslar ve özel ders.",
+    "ar": "مدارس اللغات والدورات والدروس الخصوصية.",
+    "es": "Escuelas de idiomas, cursos y clases particulares.",
+    "fr": "Écoles de langues, cours et soutien scolaire."
+  }
+}

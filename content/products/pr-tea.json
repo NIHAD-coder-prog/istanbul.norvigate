@@ -1,0 +1,109 @@
+{
+  "stock": {
+    "status": "inquire"
+  },
+  "taxes": {
+    "disclosure": "notCalculated"
+  },
+  "fulfilment": {
+    "status": "notConfigured"
+  },
+  "dataStatus": "sample",
+  "lastUpdated": "2026-10-16",
+  "id": "pr-tea",
+  "slug": "sample-black-tea",
+  "categoryId": "packaged",
+  "motif": "tea",
+  "name": {
+    "en": "Sample Black Tea",
+    "tr": "Örnek Siyah Çay",
+    "ar": "شاي أسود (تجريبي)",
+    "es": "Té negro de muestra",
+    "fr": "Thé noir d’exemple"
+  },
+  "summary": {
+    "en": "Loose-leaf black tea. Sample product.",
+    "tr": "Dökme yaprak siyah çay. Örnek ürün.",
+    "ar": "شاي أسود أوراق سائبة. منتج تجريبي.",
+    "es": "Té negro en hebras. Producto de muestra.",
+    "fr": "Thé noir en feuilles. Produit d’exemple."
+  },
+  "description": {
+    "en": "A demonstration listing for loose-leaf black tea in a pack.",
+    "tr": "Paketlenmiş dökme yaprak siyah çay için gösterim ilanı.",
+    "ar": "إدراج تجريبي لشاي أسود أوراق سائبة معبّأ.",
+    "es": "Ficha de demostración de té negro en hebras envasado.",
+    "fr": "Une fiche de démonstration pour du thé noir en feuilles, en paquet."
+  },
+  "variants": [
+    {
+      "id": "250",
+      "label": {
+        "en": "250 g pack",
+        "tr": "250 g paket",
+        "ar": "عبوة 250 غ",
+        "es": "Paquete de 250 g",
+        "fr": "Paquet de 250 g"
+      },
+      "weightGrams": 250,
+      "priceMinor": 14000,
+      "currency": "TRY"
+    },
+    {
+      "id": "500",
+      "label": {
+        "en": "500 g pack",
+        "tr": "500 g paket",
+        "ar": "عبوة 500 غ",
+        "es": "Paquete de 500 g",
+        "fr": "Paquet de 500 g"
+      },
+      "weightGrams": 500,
+      "priceMinor": 25000,
+      "currency": "TRY"
+    }
+  ],
+  "ingredients": {
+    "en": "Black tea (sample)",
+    "tr": "Siyah çay (örnek)",
+    "ar": "شاي أسود (مثال)",
+    "es": "Té negro (muestra)",
+    "fr": "Thé noir (exemple)"
+  },
+  "allergens": {
+    "status": "unverified",
+    "contains": []
+  },
+  "shelfLifeDays": 540,
+  "storage": {
+    "en": "Airtight container, dry place (sample)",
+    "tr": "Hava geçirmez kapta, kuru yerde (örnek)",
+    "ar": "في وعاء محكم في مكان جاف (مثال)",
+    "es": "Recipiente hermético, lugar seco (muestra)",
+    "fr": "Récipient hermétique, endroit sec (exemple)"
+  },
+  "shipping": {
+    "packageWeightGrams": 300,
+    "methods": [],
+    "destinations": [
+      {
+        "country": "TR",
+        "status": "notEnabled",
+        "reviewItems": [
+          "fulfilment",
+          "shippingFeasibility"
+        ]
+      },
+      {
+        "country": "*",
+        "status": "notEnabled",
+        "reviewItems": [
+          "importRestrictions",
+          "foodLabelling",
+          "shippingFeasibility",
+          "fulfilment"
+        ]
+      }
+    ]
+  }
+}

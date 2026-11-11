@@ -1,0 +1,14 @@
+{
+  "id": "booking",
+  "kind": "hotels",
+  "name": "Booking.com",
+  "description": {
+    "en": "Online accommodation booking site with a wide range of properties.",
+    "tr": "Geniş bir tesis yelpazesine sahip çevrimiçi konaklama rezervasyon sitesi.",
+    "ar": "موقع حجز إقامة عبر الإنترنت يضم مجموعة واسعة من المنشآت.",
+    "es": "Sitio de reserva de alojamiento en línea con una amplia gama de establecimientos.",
+    "fr": "Site de réservation d’hébergement proposant un large choix d’établissements."
+  },
+  "url": "https://www.booking.com",
+  "checkedAt": "2026-10-16"
+}

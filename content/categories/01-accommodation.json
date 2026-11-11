@@ -1,0 +1,18 @@
+{
+  "id": "accommodation",
+  "icon": "bed",
+  "name": {
+    "en": "Accommodation",
+    "tr": "Konaklama",
+    "ar": "الإقامة",
+    "es": "Alojamiento",
+    "fr": "Hébergement"
+  },
+  "description": {
+    "en": "Hotels, guesthouses and serviced apartments.",
+    "tr": "Oteller, pansiyonlar ve hizmetli apartlar.",
+    "ar": "الفنادق ونُزل الضيافة والشقق المخدومة.",
+    "es": "Hoteles, casas de huéspedes y apartamentos con servicios.",
+    "fr": "Hôtels, maisons d’hôtes et appartements avec services."
+  }
+}

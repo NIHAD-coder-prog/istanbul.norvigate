@@ -1,0 +1,39 @@
+{
+  "id": "p-business",
+  "slug": "sample-business-setup-advisory",
+  "categoryId": "business-services",
+  "name": {
+    "en": "Sample Business Setup Advisory",
+    "tr": "Örnek İş Kurulum Danışmanlığı",
+    "ar": "استشارات تأسيس أعمال تجريبية",
+    "es": "Asesoría de constitución de empresas de muestra",
+    "fr": "Cabinet de conseil en création d’entreprise d’exemple"
+  },
+  "summary": {
+    "en": "Demonstration profile of a professional-services listing.",
+    "tr": "Profesyonel hizmet ilanının gösterim profili.",
+    "ar": "ملف تجريبي لإدراج خدمات مهنية.",
+    "es": "Perfil de demostración de un anuncio de servicios profesionales.",
+    "fr": "Profil de démonstration d’une fiche de services professionnels."
+  },
+  "description": {
+    "en": "A sample listing for company-setup and accounting support. It is not a real firm and gives no advice, fees or qualifications.",
+    "tr": "Şirket kuruluşu ve muhasebe desteği için örnek ilan. Gerçek bir firma değildir; tavsiye, ücret veya yeterlilik bilgisi vermez.",
+    "ar": "إدراج تجريبي لدعم تأسيس الشركات والمحاسبة. ليست شركة حقيقية ولا تقدّم نصائح أو رسومًا أو مؤهلات.",
+    "es": "Un anuncio de muestra de apoyo para constituir empresas y contabilidad. No es una firma real y no ofrece asesoramiento, honorarios ni cualificaciones.",
+    "fr": "Une fiche d’exemple pour l’aide à la création d’entreprise et à la comptabilité. Ce n’est pas un vrai cabinet et elle ne donne ni conseils, ni honoraires, ni qualifications."
+  },
+  "area": {
+    "en": "Şişli",
+    "tr": "Şişli",
+    "ar": "شيشلي",
+    "es": "Şişli",
+    "fr": "Şişli"
+  },
+  "languages": [
+    "en",
+    "tr"
+  ],
+  "lastUpdated": "2026-10-16",
+  "dataStatus": "sample"
+}

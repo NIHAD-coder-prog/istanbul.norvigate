@@ -1,0 +1,17 @@
+{
+  "id": "verified",
+  "q": {
+    "en": "Are the providers verified?",
+    "tr": "Sağlayıcılar doğrulanmış mı?",
+    "ar": "هل المزوّدون موثّقون؟",
+    "es": "¿Están verificados los proveedores?",
+    "fr": "Les prestataires sont-ils vérifiés ?"
+  },
+  "a": {
+    "en": "No provider in V0.1 is real or verified. When real providers are added, only fields with real data will be shown, with a last-updated date. We do not display invented reviews, ratings, addresses or availability.",
+    "tr": "V0.1'de hiçbir sağlayıcı gerçek veya doğrulanmış değildir. Gerçek sağlayıcılar eklendiğinde yalnızca gerçek veri içeren alanlar, son güncelleme tarihiyle gösterilecektir. Uydurma yorum, puan, adres veya müsaitlik göstermeyiz.",
+    "ar": "لا يوجد في V0.1 أي مزوّد حقيقي أو موثّق. عند إضافة مزوّدين حقيقيين ستُعرض الحقول التي لها بيانات حقيقية فقط مع تاريخ آخر تحديث. لا نعرض مراجعات أو تقييمات أو عناوين أو توافرًا مختلقة.",
+    "es": "Ningún proveedor de la V0.1 es real ni está verificado. Cuando se añadan proveedores reales, solo se mostrarán los campos con datos reales y con fecha de última actualización. No mostramos reseñas, valoraciones, direcciones ni disponibilidad inventadas.",
+    "fr": "Aucun prestataire de la V0.1 n’est réel ni vérifié. Lorsque de vrais prestataires seront ajoutés, seuls les champs contenant des données réelles seront affichés, avec une date de dernière mise à jour. Nous n’affichons ni avis, ni notes, ni adresses, ni disponibilités inventés."
+  }
+}

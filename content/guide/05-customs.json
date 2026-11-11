@@ -1,0 +1,30 @@
+{
+  "id": "customs",
+  "title": {
+    "en": "Local customs",
+    "tr": "Yerel gelenekler",
+    "ar": "العادات المحلية",
+    "es": "Costumbres locales",
+    "fr": "Usages locaux"
+  },
+  "body": [
+    {
+      "en": "When visiting mosques, dress modestly, cover your shoulders and knees, and expect to remove your shoes. Women may be asked to cover their hair. Avoid visiting during prayer times unless you are there to pray, and follow the instructions of staff.",
+      "tr": "Camileri ziyaret ederken mütevazı giyinin, omuz ve dizlerinizi örtün ve ayakkabılarınızı çıkarmanız gerekeceğini bilin. Kadınlardan saçlarını örtmeleri istenebilir. İbadet için gitmiyorsanız namaz vakitlerinde ziyaretten kaçının ve görevlilerin yönlendirmelerine uyun.",
+      "ar": "عند زيارة المساجد، ارتدِ ملابس محتشمة وغطِّ الكتفين والركبتين وتوقّع خلع الحذاء. قد يُطلب من النساء تغطية الشعر. تجنّب الزيارة وقت الصلاة ما لم تكن للصلاة، واتبع تعليمات العاملين.",
+      "es": "Al visitar mezquitas, vístete con modestia, cúbrete los hombros y las rodillas y cuenta con quitarte los zapatos. A las mujeres puede pedírseles que se cubran el cabello. Evita visitar durante las horas de oración salvo que vayas a rezar, y sigue las indicaciones del personal.",
+      "fr": "Pour visiter une mosquée, habillez-vous modestement, couvrez épaules et genoux, et attendez-vous à retirer vos chaussures. Il peut être demandé aux femmes de se couvrir les cheveux. Évitez de visiter pendant les heures de prière sauf pour prier, et suivez les instructions du personnel."
+    },
+    {
+      "en": "Bargaining is common in many bazaar shops but not in shops with posted prices.",
+      "tr": "Pazarlık birçok çarşı dükkânında yaygındır ancak etiket fiyatlı dükkânlarda değildir.",
+      "ar": "المساومة شائعة في كثير من محلات الأسواق لكنها ليست كذلك في المحلات ذات الأسعار المعلنة.",
+      "es": "Regatear es habitual en muchas tiendas de los bazares, pero no en las tiendas con precios marcados.",
+      "fr": "Le marchandage est courant dans de nombreuses boutiques des bazars, mais pas dans les boutiques à prix affichés."
+    }
+  ],
+  "timeSensitive": false,
+  "reviewedAt": "2026-10-16",
+  "links": [],
+  "dataStatus": "editorial"
+}

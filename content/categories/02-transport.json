@@ -1,0 +1,18 @@
+{
+  "id": "transport",
+  "icon": "bus",
+  "name": {
+    "en": "Transport",
+    "tr": "Ulaşım",
+    "ar": "النقل",
+    "es": "Transporte",
+    "fr": "Transport"
+  },
+  "description": {
+    "en": "Airport transfers and local transportation.",
+    "tr": "Havalimanı transferleri ve yerel ulaşım.",
+    "ar": "التوصيل من المطارات والنقل المحلي.",
+    "es": "Traslados al aeropuerto y transporte local.",
+    "fr": "Transferts aéroport et transports locaux."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p-guesthouse",
+  "slug": "sample-guesthouse-old-city",
+  "categoryId": "accommodation",
+  "name": {
+    "en": "Sample Guesthouse (Old City)",
+    "tr": "Örnek Pansiyon (Tarihi Yarımada)",
+    "ar": "نُزل تجريبي (المدينة القديمة)",
+    "es": "Casa de huéspedes de muestra (casco antiguo)",
+    "fr": "Maison d’hôtes d’exemple (vieille ville)"
+  },
+  "summary": {
+    "en": "Demonstration profile of a small guesthouse listing.",
+    "tr": "Küçük bir pansiyon ilanının gösterim profili.",
+    "ar": "ملف تجريبي لإدراج نُزل صغير.",
+    "es": "Perfil de demostración de un anuncio de casa de huéspedes pequeña.",
+    "fr": "Profil de démonstration d’une petite maison d’hôtes."
+  },
+  "description": {
+    "en": "This sample shows how an accommodation profile will be laid out: a short description, the district, languages spoken and a last-updated date. It is not a real guesthouse.",
+    "tr": "Bu örnek, bir konaklama profilinin nasıl görüneceğini gösterir: kısa açıklama, ilçe, konuşulan diller ve son güncelleme tarihi. Gerçek bir pansiyon değildir.",
+    "ar": "يعرض هذا المثال كيف سيبدو ملف الإقامة: وصف مختصر والحي واللغات المتحدَّث بها وتاريخ آخر تحديث. وهو ليس نُزلًا حقيقيًا.",
+    "es": "Este ejemplo muestra cómo se presentará un perfil de alojamiento: una breve descripción, el distrito, los idiomas que se hablan y la fecha de la última actualización. No es una casa de huéspedes real.",
+    "fr": "Cet exemple montre comment sera présenté un profil d’hébergement : une courte description, le quartier, les langues parlées et une date de dernière mise à jour. Ce n’est pas une vraie maison d’hôtes."
+  },
+  "area": {
+    "en": "Fatih",
+    "tr": "Fatih",
+    "ar": "الفاتح",
+    "es": "Fatih",
+    "fr": "Fatih"
+  },
+  "languages": [
+    "en",
+    "tr",
+    "ar",
+    "es"
+  ],
+  "lastUpdated": "2026-10-16",
+  "dataStatus": "sample"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "currency",
+  "q": {
+    "en": "Are converted prices exact?",
+    "tr": "Dönüştürülen fiyatlar kesin mi?",
+    "ar": "هل الأسعار المحوَّلة دقيقة؟",
+    "es": "¿Son exactos los precios convertidos?",
+    "fr": "Les prix convertis sont-ils exacts ?"
+  },
+  "a": {
+    "en": "No. Conversions are indicative, based on daily reference rates from a third-party service. Store prices are sample prices in Turkish lira and nothing is charged. If the rate service cannot be reached, no converted amount is shown.",
+    "tr": "Hayır. Dönüştürmeler, üçüncü taraf bir hizmetin günlük referans kurlarına dayanan tahmini değerlerdir. Mağaza fiyatları Türk lirası cinsinden örnek fiyatlardır ve hiçbir ücret alınmaz. Kur hizmetine ulaşılamazsa dönüştürülmüş tutar gösterilmez.",
+    "ar": "لا. التحويلات استرشادية وتستند إلى أسعار مرجعية يومية من خدمة طرف ثالث. أسعار المتجر أسعار تجريبية بالليرة التركية ولا يُخصم أي مبلغ. وإذا تعذر الوصول إلى خدمة الأسعار فلا يُعرض أي مبلغ محوَّل.",
+    "es": "No. Las conversiones son orientativas y se basan en tipos de referencia diarios de un servicio de terceros. Los precios de la tienda son precios de muestra en liras turcas y no se cobra nada. Si no se puede acceder al servicio de tipos de cambio, no se muestra ningún importe convertido.",
+    "fr": "Non. Les conversions sont indicatives, fondées sur des taux de référence quotidiens d’un service tiers. Les prix de la boutique sont des prix d’exemple en livres turques et rien n’est facturé. Si le service de taux est inaccessible, aucun montant converti n’est affiché."
+  }
+}

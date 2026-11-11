@@ -1,0 +1,113 @@
+{
+  "stock": {
+    "status": "inquire"
+  },
+  "taxes": {
+    "disclosure": "notCalculated"
+  },
+  "fulfilment": {
+    "status": "notConfigured"
+  },
+  "dataStatus": "sample",
+  "lastUpdated": "2026-10-16",
+  "id": "pr-baklava",
+  "slug": "sample-pistachio-baklava",
+  "categoryId": "sweets",
+  "motif": "baklava",
+  "name": {
+    "en": "Sample Pistachio Baklava",
+    "tr": "Örnek Fıstıklı Baklava",
+    "ar": "بقلاوة بالفستق (تجريبية)",
+    "es": "Baklava de pistacho de muestra",
+    "fr": "Baklava à la pistache d’exemple"
+  },
+  "summary": {
+    "en": "Layered pastry with nuts and syrup. Sample product.",
+    "tr": "Fıstıklı ve şerbetli katmanlı hamur işi. Örnek ürün.",
+    "ar": "عجين مطبّق بالمكسرات والقطر. منتج تجريبي.",
+    "es": "Hojaldre en capas con frutos secos y almíbar. Producto de muestra.",
+    "fr": "Pâtisserie feuilletée aux fruits à coque et au sirop. Produit d’exemple."
+  },
+  "description": {
+    "en": "A demonstration listing for baklava. Fresh pastry has a short shelf life and needs careful shipping, which is one reason shipping is not enabled.",
+    "tr": "Baklava için gösterim ilanı. Taze hamur işlerinin raf ömrü kısadır ve dikkatli gönderim gerektirir; gönderimin etkin olmamasının nedenlerinden biri budur.",
+    "ar": "إدراج تجريبي للبقلاوة. للمعجنات الطازجة مدة صلاحية قصيرة وتحتاج شحنًا دقيقًا، وهذا أحد أسباب عدم تفعيل الشحن.",
+    "es": "Ficha de demostración de baklava. La pastelería fresca tiene poca vida útil y requiere un envío cuidadoso, una de las razones por las que el envío no está activado.",
+    "fr": "Une fiche de démonstration pour le baklava. La pâtisserie fraîche a une courte durée de conservation et demande un envoi soigné, ce qui explique en partie pourquoi l’expédition n’est pas activée."
+  },
+  "variants": [
+    {
+      "id": "500",
+      "label": {
+        "en": "500 g box",
+        "tr": "500 g kutu",
+        "ar": "علبة 500 غ",
+        "es": "Caja de 500 g",
+        "fr": "Boîte de 500 g"
+      },
+      "weightGrams": 500,
+      "priceMinor": 55000,
+      "currency": "TRY"
+    },
+    {
+      "id": "1000",
+      "label": {
+        "en": "1 kg box",
+        "tr": "1 kg kutu",
+        "ar": "علبة 1 كغ",
+        "es": "Caja de 1 kg",
+        "fr": "Boîte de 1 kg"
+      },
+      "weightGrams": 1000,
+      "priceMinor": 98000,
+      "currency": "TRY"
+    }
+  ],
+  "ingredients": {
+    "en": "Flour, pistachios, butter, sugar, water (sample)",
+    "tr": "Un, Antep fıstığı, tereyağı, şeker, su (örnek)",
+    "ar": "دقيق، فستق حلبي، زبدة، سكر، ماء (مثال)",
+    "es": "Harina, pistachos, mantequilla, azúcar, agua (muestra)",
+    "fr": "Farine, pistaches, beurre, sucre, eau (exemple)"
+  },
+  "allergens": {
+    "status": "unverified",
+    "contains": [
+      "gluten",
+      "treeNuts",
+      "milk"
+    ]
+  },
+  "shelfLifeDays": 10,
+  "storage": {
+    "en": "Cool place, away from sunlight (sample)",
+    "tr": "Serin yerde, güneş ışığından uzakta (örnek)",
+    "ar": "في مكان بارد بعيدًا عن الشمس (مثال)",
+    "es": "Lugar fresco, lejos de la luz del sol (muestra)",
+    "fr": "Endroit frais, à l’abri du soleil (exemple)"
+  },
+  "shipping": {
+    "packageWeightGrams": 650,
+    "methods": [],
+    "destinations": [
+      {
+        "country": "TR",
+        "status": "notEnabled",
+        "reviewItems": [
+          "fulfilment",
+          "shippingFeasibility"
+        ]
+      },
+      {
+        "country": "*",
+        "status": "notEnabled",
+        "reviewItems": [
+          "importRestrictions",
+          "foodLabelling",
+          "shippingFeasibility",
+          "fulfilment"
+        ]
+      }
+    ]
+  }
+}

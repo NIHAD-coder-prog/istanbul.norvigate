@@ -1,0 +1,109 @@
+{
+  "stock": {
+    "status": "inquire"
+  },
+  "taxes": {
+    "disclosure": "notCalculated"
+  },
+  "fulfilment": {
+    "status": "notConfigured"
+  },
+  "dataStatus": "sample",
+  "lastUpdated": "2026-10-16",
+  "id": "pr-lokum",
+  "slug": "sample-turkish-delight",
+  "categoryId": "sweets",
+  "motif": "delight",
+  "name": {
+    "en": "Sample Turkish Delight (Lokum)",
+    "tr": "Örnek Lokum",
+    "ar": "راحة الحلقوم التركية (تجريبية)",
+    "es": "Delicia turca (lokum) de muestra",
+    "fr": "Loukoum turc d’exemple (lokum)"
+  },
+  "summary": {
+    "en": "Soft cubes dusted with sugar. Sample product.",
+    "tr": "Şekerle kaplanmış yumuşak küpler. Örnek ürün.",
+    "ar": "مكعبات طرية مغطاة بالسكر. منتج تجريبي.",
+    "es": "Cubos suaves espolvoreados con azúcar. Producto de muestra.",
+    "fr": "Cubes moelleux saupoudrés de sucre. Produit d’exemple."
+  },
+  "description": {
+    "en": "A demonstration listing for classic Turkish delight. The product, price and details are invented to show how a store product page works.",
+    "tr": "Klasik lokum için gösterim ilanı. Ürün, fiyat ve ayrıntılar, mağaza ürün sayfasının nasıl çalıştığını göstermek için uydurulmuştur.",
+    "ar": "إدراج تجريبي لراحة الحلقوم التقليدية. المنتج والسعر والتفاصيل مختلقة لعرض طريقة عمل صفحة منتج في المتجر.",
+    "es": "Ficha de demostración de la delicia turca clásica. El producto, el precio y los detalles son inventados para mostrar cómo funciona la página de producto de una tienda.",
+    "fr": "Une fiche de démonstration pour le loukoum turc classique. Le produit, le prix et les détails sont inventés pour montrer comment fonctionne une page produit de la boutique."
+  },
+  "variants": [
+    {
+      "id": "250",
+      "label": {
+        "en": "250 g box",
+        "tr": "250 g kutu",
+        "ar": "علبة 250 غ",
+        "es": "Caja de 250 g",
+        "fr": "Boîte de 250 g"
+      },
+      "weightGrams": 250,
+      "priceMinor": 18000,
+      "currency": "TRY"
+    },
+    {
+      "id": "500",
+      "label": {
+        "en": "500 g box",
+        "tr": "500 g kutu",
+        "ar": "علبة 500 غ",
+        "es": "Caja de 500 g",
+        "fr": "Boîte de 500 g"
+      },
+      "weightGrams": 500,
+      "priceMinor": 32000,
+      "currency": "TRY"
+    }
+  ],
+  "ingredients": {
+    "en": "Sugar, starch, water, flavouring (sample)",
+    "tr": "Şeker, nişasta, su, aroma (örnek)",
+    "ar": "سكر، نشا، ماء، نكهة (مثال)",
+    "es": "Azúcar, almidón, agua, aroma (muestra)",
+    "fr": "Sucre, amidon, eau, arôme (exemple)"
+  },
+  "allergens": {
+    "status": "unverified",
+    "contains": []
+  },
+  "shelfLifeDays": 180,
+  "storage": {
+    "en": "Cool, dry place (sample)",
+    "tr": "Serin ve kuru yerde (örnek)",
+    "ar": "في مكان بارد وجاف (مثال)",
+    "es": "Lugar fresco y seco (muestra)",
+    "fr": "Endroit frais et sec (exemple)"
+  },
+  "shipping": {
+    "packageWeightGrams": 300,
+    "methods": [],
+    "destinations": [
+      {
+        "country": "TR",
+        "status": "notEnabled",
+        "reviewItems": [
+          "fulfilment",
+          "shippingFeasibility"
+        ]
+      },
+      {
+        "country": "*",
+        "status": "notEnabled",
+        "reviewItems": [
+          "importRestrictions",
+          "foodLabelling",
+          "shippingFeasibility",
+          "fulfilment"
+        ]
+      }
+    ]
+  }
+}

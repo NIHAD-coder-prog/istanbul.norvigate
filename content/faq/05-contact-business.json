@@ -1,0 +1,17 @@
+{
+  "id": "contact-business",
+  "q": {
+    "en": "How do I contact a business?",
+    "tr": "Bir işletmeyle nasıl iletişime geçerim?",
+    "ar": "كيف أتواصل مع نشاط تجاري؟",
+    "es": "¿Cómo contacto con un negocio?",
+    "fr": "Comment contacter une entreprise ?"
+  },
+  "a": {
+    "en": "Sample listings have no contact details. In V0.1 you can send an enquiry to NORVIGATE through the contact form; it is received by NORVIGATE and is not forwarded to a provider automatically.",
+    "tr": "Örnek ilanların iletişim bilgisi yoktur. V0.1'de iletişim formu üzerinden NORVIGATE'e bir soru gönderebilirsiniz; bu soru NORVIGATE'e ulaşır ve otomatik olarak bir sağlayıcıya iletilmez.",
+    "ar": "الإدراجات التجريبية بلا بيانات اتصال. في V0.1 يمكنك إرسال استفسار إلى نورفيغيت عبر نموذج الاتصال؛ يصل إلى نورفيغيت ولا يُحوَّل تلقائيًا إلى مزوّد.",
+    "es": "Las fichas de muestra no tienen datos de contacto. En la V0.1 puedes enviar una consulta a NORVIGATE mediante el formulario de contacto; la recibe NORVIGATE y no se reenvía automáticamente a un proveedor.",
+    "fr": "Les fiches d’exemple n’ont pas de coordonnées. En V0.1, vous pouvez envoyer une demande à NORVIGATE via le formulaire de contact ; elle est reçue par NORVIGATE et n’est pas transmise automatiquement à un prestataire."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "p-CHANGE-ME",
+  "slug": "change-me",
+  "categoryId": "business-services",
+  "name": {
+    "en": "Business name",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "summary": {
+    "en": "One short sentence about what they do.",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "description": {
+    "en": "A few sentences. Only facts you have verified.",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "area": {
+    "en": "District",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "serviceArea": {
+    "en": "Optional: where they work",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "languages": [
+    "en",
+    "tr"
+  ],
+  "contact": {
+    "website": "https://example.com",
+    "email": "hello@example.com",
+    "phone": "+90 000 000 00 00"
+  },
+  "lastUpdated": "2026-11-04",
+  "dataStatus": "verified"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "pr-CHANGE-ME",
+  "slug": "change-me",
+  "categoryId": "sweets",
+  "motif": "gift",
+  "name": {
+    "en": "Product name",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "summary": {
+    "en": "One short sentence.",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "description": {
+    "en": "Description.",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "variants": [
+    {
+      "id": "std",
+      "label": {
+        "en": "Standard",
+        "tr": "",
+        "ar": "",
+        "es": "",
+        "fr": ""
+      },
+      "weightGrams": 250,
+      "priceMinor": 10000,
+      "currency": "TRY"
+    }
+  ],
+  "ingredients": {
+    "en": "Ingredients",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "allergens": {
+    "status": "unverified",
+    "contains": []
+  },
+  "storage": {
+    "en": "Storage",
+    "tr": "",
+    "ar": "",
+    "es": "",
+    "fr": ""
+  },
+  "stock": {
+    "status": "unverified"
+  },
+  "shipping": {
+    "methods": [],
+    "destinations": []
+  },
+  "taxes": {
+    "disclosure": "notCalculated"
+  },
+  "fulfilment": {
+    "status": "notConfigured"
+  },
+  "dataStatus": "verified",
+  "lastUpdated": "2026-11-04"
+}

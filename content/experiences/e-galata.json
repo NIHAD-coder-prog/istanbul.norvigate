@@ -1,0 +1,42 @@
+{
+  "id": "e-galata",
+  "slug": "galata-tower",
+  "category": "neighbourhoods",
+  "title": {
+    "en": "Galata Tower and neighbourhood",
+    "tr": "Galata Kulesi ve çevresi",
+    "ar": "برج غلطة وحيّه",
+    "es": "Torre de Gálata y su barrio",
+    "fr": "Tour de Galata et son quartier"
+  },
+  "summary": {
+    "en": "A medieval stone tower with views over the old city and the Golden Horn.",
+    "tr": "Eski şehir ve Haliç manzaralı ortaçağ taş kulesi.",
+    "ar": "برج حجري من العصور الوسطى يطل على المدينة القديمة والقرن الذهبي.",
+    "es": "Torre de piedra medieval con vistas al casco antiguo y al Cuerno de Oro.",
+    "fr": "Une tour médiévale en pierre avec vue sur la vieille ville et la Corne d’Or."
+  },
+  "description": {
+    "en": "The tower stands in the Galata neighbourhood, whose steep streets lead to cafés, small galleries and shops. Check the official source for visiting arrangements.",
+    "tr": "Kule, dik sokaklarıyla kafelere, küçük galerilere ve dükkânlara uzanan Galata semtinde yer alır. Ziyaret düzeni için resmî kaynağa bakın.",
+    "ar": "يقع البرج في حي غلطة الذي تؤدي شوارعه المنحدرة إلى مقاهٍ ومعارض صغيرة ومحلات. راجع المصدر الرسمي لترتيبات الزيارة.",
+    "es": "La torre se alza en el barrio de Gálata, cuyas empinadas calles llevan a cafés, pequeñas galerías y tiendas. Consulta la fuente oficial para las condiciones de visita.",
+    "fr": "La tour se dresse dans le quartier de Galata, dont les rues escarpées mènent à des cafés, de petites galeries et des boutiques. Consultez la source officielle pour les conditions de visite."
+  },
+  "area": {
+    "en": "Beyoğlu (Galata)",
+    "tr": "Beyoğlu (Galata)",
+    "ar": "بيوغلو (غلطة)",
+    "es": "Beyoğlu (Gálata)",
+    "fr": "Beyoğlu (Galata)"
+  },
+  "duration": {
+    "en": "Plan about 1–2 hours",
+    "tr": "Yaklaşık 1–2 saat ayırın",
+    "ar": "خصّص نحو ساعة إلى ساعتين",
+    "es": "Calcula entre 1 y 2 horas",
+    "fr": "Prévoyez environ 1 à 2 heures"
+  },
+  "dataStatus": "editorial",
+  "lastUpdated": "2026-10-16"
+}

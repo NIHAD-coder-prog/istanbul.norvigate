@@ -1,0 +1,48 @@
+{
+  "id": "p-school",
+  "slug": "sample-language-school",
+  "categoryId": "education",
+  "name": {
+    "en": "Sample Language School",
+    "tr": "Örnek Dil Okulu",
+    "ar": "مدرسة لغات تجريبية",
+    "es": "Escuela de idiomas de muestra",
+    "fr": "École de langues d’exemple"
+  },
+  "summary": {
+    "en": "Demonstration profile of a language-school listing.",
+    "tr": "Dil okulu ilanının gösterim profili.",
+    "ar": "ملف تجريبي لإدراج مدرسة لغات.",
+    "es": "Perfil de demostración de un anuncio de escuela de idiomas.",
+    "fr": "Profil de démonstration d’une fiche d’école de langues."
+  },
+  "description": {
+    "en": "A sample education listing. It lists no courses, schedules, fees or accreditation because the school is not real.",
+    "tr": "Örnek bir eğitim ilanı. Okul gerçek olmadığı için kurs, program, ücret veya akreditasyon listelemez.",
+    "ar": "إدراج تعليمي تجريبي. لا يعرض دورات أو جداول أو رسومًا أو اعتمادًا لأن المدرسة غير حقيقية.",
+    "es": "Un anuncio educativo de muestra. No enumera cursos, horarios, tarifas ni acreditaciones porque la escuela no es real.",
+    "fr": "Une fiche d’éducation d’exemple. Elle n’indique ni cours, ni horaires, ni tarifs, ni accréditation, car l’école n’est pas réelle."
+  },
+  "area": {
+    "en": "Beyoğlu",
+    "tr": "Beyoğlu",
+    "ar": "بيوغلو",
+    "es": "Beyoğlu",
+    "fr": "Beyoğlu"
+  },
+  "languages": [
+    "en",
+    "tr",
+    "ar",
+    "es"
+  ],
+  "accessibility": {
+    "en": "Accessibility information not supplied for this sample.",
+    "tr": "Bu örnek için erişilebilirlik bilgisi sağlanmamıştır.",
+    "ar": "لم تُقدَّم معلومات إمكانية الوصول لهذا المثال.",
+    "es": "No se ha facilitado información de accesibilidad para esta muestra.",
+    "fr": "Informations d’accessibilité non fournies pour cet exemple."
+  },
+  "lastUpdated": "2026-10-16",
+  "dataStatus": "sample"
+}

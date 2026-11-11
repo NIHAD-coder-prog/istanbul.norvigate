@@ -1,0 +1,17 @@
+{
+  "id": "international",
+  "q": {
+    "en": "Can products be shipped abroad?",
+    "tr": "Ürünler yurt dışına gönderilebilir mi?",
+    "ar": "هل يمكن شحن المنتجات إلى الخارج؟",
+    "es": "¿Se pueden enviar productos al extranjero?",
+    "fr": "Les produits peuvent-ils être expédiés à l’étranger ?"
+  },
+  "a": {
+    "en": "Not yet. International shipping, especially of food, needs a review of destination import restrictions, labelling rules, shipping feasibility and fulfilment before any destination is enabled. We will not switch a destination on before that review.",
+    "tr": "Henüz değil. Uluslararası gönderim, özellikle gıda için, herhangi bir varış noktası açılmadan önce ithalat kısıtlamalarının, etiketleme kurallarının, gönderim uygulanabilirliğinin ve tedarik süreçlerinin incelenmesini gerektirir. Bu inceleme olmadan hiçbir varış noktasını açmayacağız.",
+    "ar": "ليس بعد. يتطلب الشحن الدولي، وخاصة للأغذية، مراجعة قيود الاستيراد في بلد الوجهة وقواعد الوسم وجدوى الشحن وتنفيذ الطلبات قبل تفعيل أي وجهة. ولن نفعّل وجهة قبل هذه المراجعة.",
+    "es": "Todavía no. El envío internacional, especialmente de alimentos, requiere revisar las restricciones de importación del destino, las normas de etiquetado, la viabilidad del envío y el cumplimiento logístico antes de activar cualquier destino. No activaremos un destino antes de esa revisión.",
+    "fr": "Pas encore. L’expédition internationale, surtout de produits alimentaires, exige d’examiner les restrictions d’importation du pays de destination, les règles d’étiquetage, la faisabilité de l’expédition et la logistique avant d’activer une destination. Nous n’activerons aucune destination avant cet examen."
+  }
+}

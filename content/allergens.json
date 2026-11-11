@@ -1,0 +1,30 @@
+{
+  "gluten": {
+    "en": "Gluten",
+    "tr": "Gluten",
+    "ar": "الغلوتين",
+    "es": "Gluten",
+    "fr": "Gluten"
+  },
+  "treeNuts": {
+    "en": "Tree nuts",
+    "tr": "Sert kabuklu yemişler",
+    "ar": "المكسرات الشجرية",
+    "es": "Frutos secos de cáscara",
+    "fr": "Fruits à coque"
+  },
+  "milk": {
+    "en": "Milk",
+    "tr": "Süt",
+    "ar": "الحليب",
+    "es": "Leche",
+    "fr": "Lait"
+  },
+  "sesame": {
+    "en": "Sesame",
+    "tr": "Susam",
+    "ar": "السمسم",
+    "es": "Sésamo",
+    "fr": "Sésame"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "skyscanner",
+  "kind": "flights",
+  "name": "Skyscanner",
+  "description": {
+    "en": "Flight comparison site that lists fares from airlines and travel agents.",
+    "tr": "Havayolları ve seyahat acentelerinin fiyatlarını listeleyen uçuş karşılaştırma sitesi.",
+    "ar": "موقع مقارنة رحلات جوية يعرض أسعار شركات الطيران ووكالات السفر.",
+    "es": "Sitio de comparación de vuelos que muestra tarifas de aerolíneas y agencias de viajes.",
+    "fr": "Comparateur de vols qui affiche les tarifs des compagnies aériennes et des agences de voyage."
+  },
+  "url": "https://www.skyscanner.com",
+  "checkedAt": "2026-10-16"
+}

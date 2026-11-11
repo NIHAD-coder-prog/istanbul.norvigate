@@ -1,0 +1,17 @@
+{
+  "id": "translation",
+  "q": {
+    "en": "Is certified translation available?",
+    "tr": "Yeminli çeviri mevcut mu?",
+    "ar": "هل الترجمة المعتمدة متاحة؟",
+    "es": "¿Hay traducción jurada disponible?",
+    "fr": "Une traduction assermentée est-elle disponible ?"
+  },
+  "a": {
+    "en": "Certified translation can only be offered when an appropriately qualified provider is available. In V0.1 a request records your interest; availability is not confirmed.",
+    "tr": "Yeminli çeviri yalnızca uygun nitelikte bir sağlayıcı mevcut olduğunda sunulabilir. V0.1'de talep ilginizi kaydeder; müsaitlik onaylanmış değildir.",
+    "ar": "لا يمكن تقديم الترجمة المعتمدة إلا عند توفر مزوّد مؤهل بما يلزم. في V0.1 يسجّل الطلب اهتمامك فقط ولا يُؤكَّد التوافر.",
+    "es": "La traducción jurada solo puede ofrecerse cuando hay un proveedor con la cualificación adecuada. En la V0.1 una solicitud registra tu interés; la disponibilidad no está confirmada.",
+    "fr": "Une traduction assermentée ne peut être proposée que si un prestataire dûment qualifié est disponible. En V0.1, une demande enregistre votre intérêt ; la disponibilité n’est pas confirmée."
+  }
+}

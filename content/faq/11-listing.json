@@ -1,0 +1,17 @@
+{
+  "id": "listing",
+  "q": {
+    "en": "If I submit my business, will it be listed?",
+    "tr": "İşletmemi gönderirsem listelenir mi?",
+    "ar": "إذا أرسلت نشاطي التجاري، هل سيُدرج؟",
+    "es": "Si envío mi negocio, ¿se publicará?",
+    "fr": "Si je soumets mon entreprise, sera-t-elle publiée ?"
+  },
+  "a": {
+    "en": "Not automatically. Submission registers interest and does not guarantee publication. Submissions are reviewed before anything is published.",
+    "tr": "Otomatik olarak değil. Gönderim ilginizi kaydeder ve yayınlanmayı garanti etmez. Herhangi bir şey yayınlanmadan önce başvurular incelenir.",
+    "ar": "ليس تلقائيًا. الإرسال يسجّل الاهتمام ولا يضمن النشر. تُراجَع الطلبات قبل نشر أي شيء.",
+    "es": "No automáticamente. El envío registra el interés y no garantiza la publicación. Las solicitudes se revisan antes de publicar nada.",
+    "fr": "Pas automatiquement. L’envoi enregistre votre intérêt et ne garantit pas la publication. Les demandes sont examinées avant toute publication."
+  }
+}

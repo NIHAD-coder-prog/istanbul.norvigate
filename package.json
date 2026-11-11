@@ -1,0 +1,31 @@
+{
+  "name": "istanbul-gate",
+  "version": "0.2.0",
+  "private": true,
+  "description": "NORVIGATE \u2014 Istanbul International Gate (istanbul.norvigate.com)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "i18n:check": "tsx scripts/check-i18n.ts",
+    "submissions": "tsx scripts/list-submissions.ts",
+    "test:api": "node scripts/test-api.mjs",
+    "content:check": "node scripts/content-check.mjs",
+    "content:new": "tsx scripts/content-new.ts",
+    "test": "tsx --test tests/*.test.ts"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.7.0"
+  }
+}

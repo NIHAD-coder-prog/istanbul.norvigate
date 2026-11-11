@@ -1,0 +1,14 @@
+{
+  "id": "expedia",
+  "kind": "hotels",
+  "name": "Expedia",
+  "description": {
+    "en": "Travel site offering accommodation (Stays) alongside other travel products.",
+    "tr": "Diğer seyahat ürünlerinin yanında konaklama (Stays) sunan seyahat sitesi.",
+    "ar": "موقع سفر يقدم الإقامة (Stays) إلى جانب منتجات سفر أخرى.",
+    "es": "Sitio de viajes que ofrece alojamiento (Stays) junto con otros productos de viaje.",
+    "fr": "Site de voyage proposant des hébergements (Stays) parmi d’autres produits de voyage."
+  },
+  "url": "https://www.expedia.com",
+  "checkedAt": "2026-10-16"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "arriving",
+  "title": {
+    "en": "Arriving: airports and entry",
+    "tr": "Varış: havalimanları ve giriş",
+    "ar": "الوصول: المطارات والدخول",
+    "es": "Llegada: aeropuertos y entrada",
+    "fr": "Arrivée : aéroports et entrée"
+  },
+  "body": [
+    {
+      "en": "Istanbul has two main commercial airports: Istanbul Airport (IST) on the European side and Sabiha Gökçen (SAW) on the Asian side. Check which airport your ticket uses before arranging onward travel.",
+      "tr": "İstanbul'da iki ana ticari havalimanı vardır: Avrupa yakasında İstanbul Havalimanı (IST) ve Anadolu yakasında Sabiha Gökçen (SAW). Yola devam etmeyi planlamadan önce biletinizin hangi havalimanını kullandığına bakın.",
+      "ar": "في إسطنبول مطاران تجاريان رئيسيان: مطار إسطنبول (IST) في الجانب الأوروبي ومطار صبيحة غوكشن (SAW) في الجانب الآسيوي. تحقق من المطار المذكور في تذكرتك قبل ترتيب التنقل.",
+      "es": "Estambul tiene dos aeropuertos comerciales principales: el Aeropuerto de Estambul (IST), en el lado europeo, y Sabiha Gökçen (SAW), en el lado asiático. Comprueba qué aeropuerto figura en tu billete antes de organizar el traslado.",
+      "fr": "Istanbul compte deux grands aéroports commerciaux : l’aéroport d’Istanbul (IST) sur la rive européenne et Sabiha Gökçen (SAW) sur la rive asiatique. Vérifiez quel aéroport figure sur votre billet avant d’organiser la suite du trajet."
+    },
+    {
+      "en": "Entry and visa requirements depend on your nationality and can change. Use the official e-visa system and your own government's travel advice rather than relying on a third-party summary.",
+      "tr": "Giriş ve vize şartları uyruğunuza bağlıdır ve değişebilir. Üçüncü taraf özetlere güvenmek yerine resmî e-vize sistemini ve kendi hükûmetinizin seyahat tavsiyelerini kullanın.",
+      "ar": "تختلف شروط الدخول والتأشيرة بحسب جنسيتك وقد تتغير. استخدم نظام التأشيرة الإلكترونية الرسمي وتوجيهات حكومتك للسفر بدلًا من الاعتماد على ملخصات من أطراف ثالثة.",
+      "es": "Los requisitos de entrada y de visado dependen de tu nacionalidad y pueden cambiar. Usa el sistema oficial de visado electrónico y las recomendaciones de viaje de tu propio gobierno en lugar de fiarte de un resumen de terceros.",
+      "fr": "Les conditions d’entrée et de visa dépendent de votre nationalité et peuvent changer. Utilisez le système officiel d’e-visa et les conseils aux voyageurs de votre propre gouvernement plutôt qu’un résumé de tiers."
+    }
+  ],
+  "timeSensitive": true,
+  "reviewedAt": "2026-10-16",
+  "links": [
+    {
+      "label": {
+        "en": "Republic of Türkiye e-Visa (official)",
+        "tr": "T.C. e-Vize (resmî)",
+        "ar": "التأشيرة الإلكترونية لجمهورية تركيا (رسمي)",
+        "es": "e-Visa de la República de Türkiye (oficial)",
+        "fr": "e-Visa de la République de Türkiye (officiel)"
+      },
+      "url": "https://www.evisa.gov.tr",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "label": {
+        "en": "Sabiha Gökçen Airport operator",
+        "tr": "Sabiha Gökçen Havalimanı işletmecisi",
+        "ar": "مشغّل مطار صبيحة غوكشن",
+        "es": "Operador del aeropuerto Sabiha Gökçen",
+        "fr": "Opérateur de l’aéroport Sabiha Gökçen"
+      },
+      "url": "https://www.sgairport.com",
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "dataStatus": "editorial"
+}

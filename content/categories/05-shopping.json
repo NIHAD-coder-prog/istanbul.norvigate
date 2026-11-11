@@ -1,0 +1,18 @@
+{
+  "id": "shopping",
+  "icon": "bag",
+  "name": {
+    "en": "Shopping",
+    "tr": "Alışveriş",
+    "ar": "التسوق",
+    "es": "Compras",
+    "fr": "Shopping"
+  },
+  "description": {
+    "en": "Markets, gifts and local products.",
+    "tr": "Çarşılar, hediyeler ve yerel ürünler.",
+    "ar": "الأسواق والهدايا والمنتجات المحلية.",
+    "es": "Mercados, regalos y productos locales.",
+    "fr": "Marchés, cadeaux et produits locaux."
+  }
+}

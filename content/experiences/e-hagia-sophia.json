@@ -1,0 +1,42 @@
+{
+  "id": "e-hagia-sophia",
+  "slug": "hagia-sophia",
+  "category": "history",
+  "title": {
+    "en": "Hagia Sophia",
+    "tr": "Ayasofya",
+    "ar": "آيا صوفيا",
+    "es": "Santa Sofía",
+    "fr": "Sainte-Sophie"
+  },
+  "summary": {
+    "en": "A monument of the historic peninsula, completed in the 6th century.",
+    "tr": "Tarihi yarımadada, 6. yüzyılda tamamlanan bir anıt yapı.",
+    "ar": "معلم في شبه الجزيرة التاريخية، اكتمل بناؤه في القرن السادس.",
+    "es": "Un monumento de la península histórica, terminado en el siglo VI.",
+    "fr": "Un monument de la péninsule historique, achevé au VIe siècle."
+  },
+  "description": {
+    "en": "Completed in the 6th century, Hagia Sophia has served as a church, a mosque and a museum, and is today a functioning mosque. Visiting arrangements, dress expectations and access rules are set by the authorities and can change, so check the official source before you go.",
+    "tr": "6. yüzyılda tamamlanan Ayasofya; kilise, cami ve müze olarak kullanılmış, bugün ibadete açık bir camidir. Ziyaret düzeni, kıyafet beklentileri ve giriş kuralları yetkililerce belirlenir ve değişebilir; gitmeden önce resmî kaynaktan kontrol edin.",
+    "ar": "اكتمل بناء آيا صوفيا في القرن السادس، وعمل كنيسة ثم مسجدًا ثم متحفًا، وهو اليوم مسجد عامل. تحدد الجهات الرسمية ترتيبات الزيارة والزيّ وقواعد الدخول وقد تتغير، فتحقق من المصدر الرسمي قبل الذهاب.",
+    "es": "Terminada en el siglo VI, Santa Sofía ha sido iglesia, mezquita y museo, y hoy es una mezquita en funcionamiento. Las normas de visita, de vestimenta y de acceso las fijan las autoridades y pueden cambiar, así que consulta la fuente oficial antes de ir.",
+    "fr": "Achevée au VIe siècle, Sainte-Sophie a été une église, une mosquée et un musée, et est aujourd’hui une mosquée en activité. Les conditions de visite, la tenue attendue et les règles d’accès sont fixées par les autorités et peuvent changer ; consultez la source officielle avant d’y aller."
+  },
+  "area": {
+    "en": "Fatih (Sultanahmet)",
+    "tr": "Fatih (Sultanahmet)",
+    "ar": "الفاتح (السلطان أحمد)",
+    "es": "Fatih (Sultanahmet)",
+    "fr": "Fatih (Sultanahmet)"
+  },
+  "duration": {
+    "en": "Plan about 1–2 hours",
+    "tr": "Yaklaşık 1–2 saat ayırın",
+    "ar": "خصّص نحو ساعة إلى ساعتين",
+    "es": "Calcula entre 1 y 2 horas",
+    "fr": "Prévoyez environ 1 à 2 heures"
+  },
+  "dataStatus": "editorial",
+  "lastUpdated": "2026-10-16"
+}

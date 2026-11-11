@@ -1,0 +1,17 @@
+{
+  "id": "book",
+  "q": {
+    "en": "Can I book or pay on NORVIGATE?",
+    "tr": "NORVIGATE'te rezervasyon yapabilir veya ödeme yapabilir miyim?",
+    "ar": "هل يمكنني الحجز أو الدفع عبر نورفيغيت؟",
+    "es": "¿Puedo reservar o pagar en NORVIGATE?",
+    "fr": "Puis-je réserver ou payer sur NORVIGATE ?"
+  },
+  "a": {
+    "en": "Not in V0.1. Forms record a request only. There is no payment, booking engine, login or reservation system. Flights and hotels link to external sites where you can book on their terms.",
+    "tr": "V0.1'de hayır. Formlar yalnızca bir talep kaydeder. Ödeme, rezervasyon sistemi, giriş veya ayırma sistemi yoktur. Uçak ve otel sayfaları, kendi koşullarıyla rezervasyon yapabileceğiniz harici sitelere bağlanır.",
+    "ar": "ليس في الإصدار V0.1. تسجّل النماذج الطلب فقط. لا يوجد دفع أو محرك حجز أو تسجيل دخول أو نظام حجوزات. تحيلك صفحتا الطيران والفنادق إلى مواقع خارجية يمكنك الحجز فيها وفق شروطها.",
+    "es": "Todavía no. Los formularios solo registran una solicitud. No hay pagos, motor de reservas, inicio de sesión ni sistema de reservas. Las páginas de vuelos y hoteles enlazan a sitios externos donde puedes reservar según sus condiciones.",
+    "fr": "Pas en V0.1. Les formulaires enregistrent uniquement une demande. Il n’y a ni paiement, ni moteur de réservation, ni connexion, ni système de réservation. Les vols et les hôtels renvoient vers des sites externes où vous pouvez réserver selon leurs conditions."
+  }
+}

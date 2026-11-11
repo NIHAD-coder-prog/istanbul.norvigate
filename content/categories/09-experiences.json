@@ -1,0 +1,18 @@
+{
+  "id": "experiences",
+  "icon": "compass",
+  "name": {
+    "en": "Experiences",
+    "tr": "Deneyimler",
+    "ar": "التجارب",
+    "es": "Experiencias",
+    "fr": "Expériences"
+  },
+  "description": {
+    "en": "Tours, activities and things to do.",
+    "tr": "Turlar, etkinlikler ve yapılacak şeyler.",
+    "ar": "الجولات والأنشطة وأماكن الزيارة.",
+    "es": "Excursiones, actividades y planes.",
+    "fr": "Visites, activités et choses à faire."
+  }
+}

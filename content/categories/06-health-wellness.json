@@ -1,0 +1,18 @@
+{
+  "id": "health-wellness",
+  "icon": "heart",
+  "name": {
+    "en": "Health & wellness",
+    "tr": "Sağlık ve iyi oluş",
+    "ar": "الصحة والعافية",
+    "es": "Salud y bienestar",
+    "fr": "Santé et bien-être"
+  },
+  "description": {
+    "en": "Clinics, spas and wellbeing services.",
+    "tr": "Klinikler, spalar ve iyi oluş hizmetleri.",
+    "ar": "العيادات والمنتجعات الصحية وخدمات العافية.",
+    "es": "Clínicas, spas y servicios de bienestar.",
+    "fr": "Cliniques, spas et services de bien-être."
+  }
+}

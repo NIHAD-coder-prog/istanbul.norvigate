@@ -1,0 +1,53 @@
+{
+  "id": "transport",
+  "title": {
+    "en": "Getting around",
+    "tr": "Şehir içi ulaşım",
+    "ar": "التنقل داخل المدينة",
+    "es": "Cómo moverse",
+    "fr": "Se déplacer"
+  },
+  "body": [
+    {
+      "en": "Istanbul's public transport combines metro, tram, suburban rail, buses, funiculars and ferries across the Bosphorus. The city's smart transport card, İstanbulkart, is the usual way to pay on most public transport.",
+      "tr": "İstanbul'un toplu taşıması metro, tramvay, banliyö treni, otobüs, füniküler ve Boğaz'daki vapurları birleştirir. Şehrin akıllı ulaşım kartı İstanbulkart, çoğu toplu taşıma aracında ödeme yapmanın olağan yoludur.",
+      "ar": "يجمع النقل العام في إسطنبول بين المترو والترام والقطار الضواحي والحافلات والقطارات المعلّقة والعبّارات عبر البوسفور. بطاقة النقل الذكية «إسطنبول كارت» هي الوسيلة المعتادة للدفع في معظم وسائل النقل العام.",
+      "es": "El transporte público de Estambul combina metro, tranvía, tren de cercanías, autobuses, funiculares y transbordadores a través del Bósforo. La tarjeta inteligente de transporte de la ciudad, İstanbulkart, es la forma habitual de pagar en la mayoría del transporte público.",
+      "fr": "Les transports publics d’Istanbul combinent métro, tramway, trains de banlieue, bus, funiculaires et bateaux sur le Bosphore. La carte de transport intelligente de la ville, İstanbulkart, est le moyen habituel de payer dans la plupart des transports publics."
+    },
+    {
+      "en": "Fares, routes, timetables and where to buy or top up a card change. Always check the official operator information.",
+      "tr": "Ücretler, güzergâhlar, saatler ve kartın nereden alınıp yükleneceği değişir. Her zaman resmî işletmeci bilgilerine bakın.",
+      "ar": "تتغير الأجور والمسارات والمواعيد ومكان شراء البطاقة أو شحنها. راجع دائمًا معلومات المشغّل الرسمية.",
+      "es": "Las tarifas, rutas, horarios y los puntos de compra o recarga de la tarjeta cambian. Consulta siempre la información oficial del operador.",
+      "fr": "Les tarifs, itinéraires, horaires et lieux d’achat ou de rechargement de la carte changent. Consultez toujours les informations officielles de l’opérateur."
+    }
+  ],
+  "timeSensitive": true,
+  "reviewedAt": "2026-10-16",
+  "links": [
+    {
+      "label": {
+        "en": "İstanbulkart (official)",
+        "tr": "İstanbulkart (resmî)",
+        "ar": "إسطنبول كارت (رسمي)",
+        "es": "İstanbulkart (oficial)",
+        "fr": "İstanbulkart (officiel)"
+      },
+      "url": "https://istanbulkart.istanbul",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "label": {
+        "en": "Istanbul Metropolitan Municipality",
+        "tr": "İstanbul Büyükşehir Belediyesi",
+        "ar": "بلدية إسطنبول الكبرى",
+        "es": "Ayuntamiento Metropolitano de Estambul",
+        "fr": "Municipalité métropolitaine d’Istanbul"
+      },
+      "url": "https://www.ibb.istanbul",
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "dataStatus": "editorial"
+}

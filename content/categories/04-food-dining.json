@@ -1,0 +1,18 @@
+{
+  "id": "food-dining",
+  "icon": "utensils",
+  "name": {
+    "en": "Food & dining",
+    "tr": "Yeme içme",
+    "ar": "الطعام والمطاعم",
+    "es": "Gastronomía",
+    "fr": "Restauration"
+  },
+  "description": {
+    "en": "Restaurants, cafés and food experiences.",
+    "tr": "Restoranlar, kafeler ve gastronomi deneyimleri.",
+    "ar": "المطاعم والمقاهي وتجارب الطعام.",
+    "es": "Restaurantes, cafés y experiencias gastronómicas.",
+    "fr": "Restaurants, cafés et expériences culinaires."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "business-services",
+  "icon": "briefcase",
+  "name": {
+    "en": "Business services",
+    "tr": "İş hizmetleri",
+    "ar": "خدمات الأعمال",
+    "es": "Servicios empresariales",
+    "fr": "Services aux entreprises"
+  },
+  "description": {
+    "en": "Company setup, accounting and professional support.",
+    "tr": "Şirket kuruluşu, muhasebe ve profesyonel destek.",
+    "ar": "تأسيس الشركات والمحاسبة والدعم المهني.",
+    "es": "Constitución de empresas, contabilidad y apoyo profesional.",
+    "fr": "Création d’entreprise, comptabilité et accompagnement professionnel."
+  }
+}

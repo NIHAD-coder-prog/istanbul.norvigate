@@ -1,0 +1,37 @@
+{
+ "reviewed": "2026-11-09",
+ "items": [
+  {
+   "id": "guide",
+   "status": "beta"
+  },
+  {
+   "id": "directory",
+   "status": "beta"
+  },
+  {
+   "id": "tools",
+   "status": "beta"
+  },
+  {
+   "id": "requests",
+   "status": "beta"
+  },
+  {
+   "id": "orders",
+   "status": "beta"
+  },
+  {
+   "id": "payment",
+   "status": "plan"
+  },
+  {
+   "id": "premium",
+   "status": "plan"
+  },
+  {
+   "id": "assistant",
+   "status": "plan"
+  }
+ ]
+}

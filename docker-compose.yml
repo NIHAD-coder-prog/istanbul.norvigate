@@ -1,0 +1,35 @@
+services:
+  app:
+    build:
+      context: .
+      args:
+        NEXT_PUBLIC_SITE_URL: ${NEXT_PUBLIC_SITE_URL:-https://istanbul.norvigate.com}
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      NORVIGATE_DATA_DIR: /data
+      CSP_UPGRADE_INSECURE: "true"
+    volumes:
+      - nv-data:/data
+      # Content lives in ./content on the server: edit or add JSON files there, no rebuild needed.
+      - ./content:/app/content:ro
+    expose:
+      - "3000"
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on:
+      - app
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      SITE_DOMAIN: ${SITE_DOMAIN:-istanbul.norvigate.com}
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+volumes:
+  nv-data:
+  caddy-data:
+  caddy-config:

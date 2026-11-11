@@ -1,0 +1,41 @@
+{
+  "id": "p-kitchen",
+  "slug": "sample-family-kitchen",
+  "categoryId": "food-dining",
+  "name": {
+    "en": "Sample Family Kitchen",
+    "tr": "Örnek Aile Mutfağı",
+    "ar": "مطبخ عائلي تجريبي",
+    "es": "Cocina familiar de muestra",
+    "fr": "Cuisine familiale d’exemple"
+  },
+  "summary": {
+    "en": "Demonstration profile of a restaurant listing.",
+    "tr": "Restoran ilanının gösterim profili.",
+    "ar": "ملف تجريبي لإدراج مطعم.",
+    "es": "Perfil de demostración de un anuncio de restaurante.",
+    "fr": "Profil de démonstration d’une fiche de restaurant."
+  },
+  "description": {
+    "en": "A sample food-and-dining profile. It shows no menu, hours, prices or ratings because the business is not real.",
+    "tr": "Örnek bir yeme-içme profili. İşletme gerçek olmadığı için menü, saat, fiyat veya puan göstermez.",
+    "ar": "ملف تجريبي للطعام والمطاعم. لا يعرض قائمة طعام أو ساعات عمل أو أسعارًا أو تقييمات لأن النشاط غير حقيقي.",
+    "es": "Un perfil de gastronomía de muestra. No muestra carta, horarios, precios ni valoraciones porque el negocio no es real.",
+    "fr": "Un profil de restauration d’exemple. Il n’affiche ni menu, ni horaires, ni prix, ni notes, car l’établissement n’est pas réel."
+  },
+  "area": {
+    "en": "Kadıköy",
+    "tr": "Kadıköy",
+    "ar": "قاضي كوي",
+    "es": "Kadıköy",
+    "fr": "Kadıköy"
+  },
+  "languages": [
+    "en",
+    "tr",
+    "ar",
+    "es"
+  ],
+  "lastUpdated": "2026-10-16",
+  "dataStatus": "sample"
+}

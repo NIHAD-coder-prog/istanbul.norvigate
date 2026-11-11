@@ -1,0 +1,42 @@
+{
+  "id": "e-bosphorus",
+  "slug": "bosphorus-ferries",
+  "category": "waterfront",
+  "title": {
+    "en": "Bosphorus by ferry",
+    "tr": "Boğaz'da vapur yolculuğu",
+    "ar": "رحلة بالعبّارة في البوسفور",
+    "es": "El Bósforo en ferry",
+    "fr": "Le Bosphore en bateau"
+  },
+  "summary": {
+    "en": "Cross between Europe and Asia on the strait that divides the city.",
+    "tr": "Şehri ikiye bölen boğazda Avrupa ile Asya arasında geçiş.",
+    "ar": "التنقل بين أوروبا وآسيا عبر المضيق الذي يقسم المدينة.",
+    "es": "Cruza entre Europa y Asia por el estrecho que divide la ciudad.",
+    "fr": "Traversez entre l’Europe et l’Asie sur le détroit qui divise la ville."
+  },
+  "description": {
+    "en": "The Bosphorus connects the Black Sea and the Sea of Marmara and separates the European and Asian sides of Istanbul. Public ferries and organised cruises both run on it; routes, schedules and fares change, so check the operator.",
+    "tr": "Boğaz, Karadeniz ile Marmara Denizi'ni birleştirir ve İstanbul'un Avrupa ve Asya yakalarını ayırır. Hem şehir hatları vapurları hem de organize turlar çalışır; güzergâh, sefer ve ücretler değişir, işletmeciyi kontrol edin.",
+    "ar": "يصل البوسفور البحر الأسود ببحر مرمرة ويفصل بين الجانبين الأوروبي والآسيوي من إسطنبول. تعمل عليه العبّارات العامة والرحلات السياحية المنظمة؛ وتتغير المسارات والمواعيد والأسعار، فتحقق من المشغّل.",
+    "es": "El Bósforo une el mar Negro y el mar de Mármara y separa los lados europeo y asiático de Estambul. Navegan por él ferris públicos y cruceros organizados; las rutas, los horarios y las tarifas cambian, así que consulta al operador.",
+    "fr": "Le Bosphore relie la mer Noire et la mer de Marmara et sépare les rives européenne et asiatique d’Istanbul. Des bateaux publics et des croisières organisées y circulent ; les itinéraires, horaires et tarifs changent, vérifiez auprès de l’opérateur."
+  },
+  "area": {
+    "en": "Across the city",
+    "tr": "Şehrin her yanı",
+    "ar": "في أنحاء المدينة",
+    "es": "Por toda la ciudad",
+    "fr": "À travers la ville"
+  },
+  "duration": {
+    "en": "Plan about 1–2 hours",
+    "tr": "Yaklaşık 1–2 saat ayırın",
+    "ar": "خصّص نحو ساعة إلى ساعتين",
+    "es": "Calcula entre 1 y 2 horas",
+    "fr": "Prévoyez environ 1 à 2 heures"
+  },
+  "dataStatus": "editorial",
+  "lastUpdated": "2026-10-16"
+}
